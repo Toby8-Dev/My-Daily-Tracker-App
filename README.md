@@ -14,10 +14,11 @@
 # ⬇️ How to Download & Run
 ## 1. 📥 Download the files
    - Click the green `Code` button above
-   - Select `Download ZIP` or clone the repo using git: `git clone https://github.com/Toby8-Dev/My-Daily-Tracker-App.git`
+   - Select `Download ZIP` or clone the repo using git:
+     `git clone https://github.com/Toby8-Dev/My-Daily-Tracker-App.git`
 ## 2. 🐍 Make sure Python is installed
-You need Python 3.10+. You can check by running: `python --version` in your terminal.
+ - You need Python 3.10+. You can check by running: `python --version` in your terminal.
 ## 3. ▶️ Run the app
-In your terminal or command prompt, navigate to the project folder and run: `python mydailytracker.py`
+ - In your terminal or command prompt, navigate to the project folder and run: `python mydailytracker.py`
 ## 4. 🧠 Start tracking!
-Use the number menu to log your day, add habits, add moods, or view past logs.
+ - Use the number menu to log your day, add habits, add moods, or view past logs.
